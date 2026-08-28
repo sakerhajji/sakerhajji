@@ -29,9 +29,9 @@ Currently employed and open to international and remote opportunities.
 ### What I focus on
 
 - **Product engineering end to end** — requirements, data model, API, UI, deployment.
-- **Backend architecture** — REST API design, relational modelling, background jobs, caching, WebSocket/real-time layers.
+- **Backend architecture** — REST API design, relational modelling, background jobs, caching, WebSocket and real-time layers.
 - **Deployment and operations** — Docker Compose on Linux VPS, Nginx reverse proxying, Let's Encrypt TLS renewal, GitHub Actions pipelines.
-- **Integrations** — WooCommerce synchronisation, hardware bridges (ESC/POS thermal printers, serial customer displays), payment and file-processing flows.
+- **Integrations** — WooCommerce synchronisation, payment providers, hardware bridges (ESC/POS thermal printers, serial customer displays), media and file-processing pipelines.
 
 ### Tech
 
@@ -53,6 +53,7 @@ Currently employed and open to international and remote opportunities.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **Infrastructure**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -68,14 +69,14 @@ Currently employed and open to international and remote opportunities.
 
 ERP / POS / business-intelligence platform for the **therapybylk** cosmetics group —
 multi-brand, multi-channel, with a real-time dashboard, an integrated point of sale and a
-WooCommerce synchronisation pipeline. I designed and built it end to end and I maintain it
-in production.
+WooCommerce synchronisation pipeline. Sole developer, from the first commit to the running
+production system I still maintain.
 
 `Django 5` `Django REST Framework` `Channels (ASGI)` `Celery` `PostgreSQL 15` `Redis 7` `React 19` `Vite` `TailwindCSS` `Docker Compose` `Nginx` `GitHub Actions`
 
 Two details worth calling out: the POS talks to physical hardware through small FastAPI
-bridge services (ESC/POS thermal printer, serial customer display), and the whole stack is
-deployed with Docker Compose behind Nginx with automated Let's Encrypt renewal.
+bridge services (ESC/POS thermal printer, serial customer display), and the whole stack
+deploys through GitHub Actions onto a VPS behind Nginx with automated Let's Encrypt renewal.
 
 → Live: [lksystem.therapybylk.com](https://lksystem.therapybylk.com)
 
@@ -90,29 +91,31 @@ them. Sole developer.
 The repository is private because it is a commercial product. Happy to walk through the
 architecture in an interview.
 
+#### [E-Learning Platform API](https://github.com/sakerhajji/elearning-platform-api)
+
+Backend for an online course platform: catalogue and lessons, video upload and transcoding
+with per-user progress tracking, quizzes, PDF certificates with QR verification, a
+discussion forum, and an order flow paying through both Stripe and PayPal. Around 30 route
+modules over 20 data models.
+
+`Node.js` `Express` `MongoDB` `Mongoose` `Socket.IO` `JWT + OAuth 2.0` `Stripe` `PayPal` `Cloudinary` `ffmpeg` `Docker`
+
 #### [LatexLocal](https://github.com/sakerhajji/LatexLocal)
 
 Reproducible Docker deployment of a self-hosted Overleaf Community Edition instance,
 including a MongoDB replica set, Redis, and a LaTeX toolchain preconfigured with the
 packages and fonts real reports need. Built because the hosted options did not fit the
-constraints; packaged so anyone can run it with one command.
+constraints; packaged so it comes up with one command.
 
 `Docker` `Docker Compose` `MongoDB 8` `Redis 6.2` `LaTeX` `GitHub Actions`
 
 #### [Health Tracker](https://github.com/sakerhajji/laravelProject5Twin3)
 
 Health and wellness tracking platform for students and educators — habit tracking,
-progress reporting, and a symptom-based guidance tool. Containerised with a CI workflow.
+progress reporting and a symptom-based guidance tool. Team project; I worked on the
+backend and the Docker/CI setup.
 
 `Laravel` `PHP` `MySQL` `Docker` `Vite`
-
----
-
-### GitHub
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sakerhajji&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent&hide_title=true&card_width=450" alt="GitHub statistics for sakerhajji" height="150">
-</p>
 
 ---
 
