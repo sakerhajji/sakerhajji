@@ -2,88 +2,86 @@
 
 # 👋 Hi, I'm Saker Hajji
 
-### Full-Stack Software Engineer · Production Systems · Backend Architecture · DevOps
+### Full-Stack Software Engineer
+### Production Systems · Backend Architecture · DevOps
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer;Building+Production-Grade+Web+Systems;Next.js+%E2%80%A2+NestJS+%E2%80%A2+Django+%E2%80%A2+PostgreSQL;Docker+%E2%80%A2+Redis+%E2%80%A2+Nginx+%E2%80%A2+CI%2FCD;From+Database+to+Production+Deployment"
-alt="Typing SVG"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Engineer;Java+%2B+Spring+Boot+%7C+NestJS+%7C+Django;Next.js+%7C+React+%7C+TypeScript;PostgreSQL+%7C+Redis+%7C+MongoDB;Docker+%7C+Nginx+%7C+Linux+%7C+CI%2FCD;Building+Production-Grade+Web+Systems"
+  alt="Typing animation"
 />
 
 <br/>
 
 <a href="https://www.linkedin.com/in/sakerhajji/">
-  <img src="https://img.shields.io/badge/LinkedIn-Saker_Hajji-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Saker_Hajji-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:saker.hajji13@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://github.com/sakerhajji">
-  <img src="https://img.shields.io/badge/GitHub-sakerhajji-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-sakerhajji-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=sakerhajji&style=flat-square&color=238636&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I'm a **Full-Stack Software Engineer** focused on designing, building and operating complete production systems.
+I'm a **Full-Stack Software Engineer** focused on designing, building, deploying, and maintaining complete production systems.
 
-I don't stop at implementing isolated frontend or backend features. I work across the entire lifecycle:
+I work across the entire engineering lifecycle:
 
 **Requirements → Architecture → Database → API → Frontend → Infrastructure → Deployment → Maintenance**
 
-My recent work includes **ERP systems, POS platforms, e-commerce integrations, real-time applications, manufacturing workflows, business intelligence dashboards and payment systems**.
+My recent work includes **ERP systems, POS platforms, e-commerce integrations, real-time applications, manufacturing workflows, business intelligence dashboards, and payment systems**.
 
 I regularly work with:
 
-* ⚡ **Next.js / React / TypeScript** for modern frontend applications
-* 🧠 **NestJS / Node.js / Django / DRF** for backend architecture
-* 🗄️ **PostgreSQL / Redis / MongoDB** for data and caching
-* 🐳 **Docker / Nginx / Linux** for production infrastructure
-* 🔄 **GitHub Actions** for CI/CD automation
-* 🔌 Third-party APIs, WooCommerce, payments and physical hardware integrations
+- ☕ **Java / Spring Boot** for enterprise backend development
+- 🧠 **NestJS / Node.js / Django / Django REST Framework** for backend architecture
+- ⚡ **Next.js / React / TypeScript** for modern frontend applications
+- 🗄️ **PostgreSQL / Redis / MongoDB / Prisma** for persistence and caching
+- 🐳 **Docker / Nginx / Linux** for production infrastructure
+- 🔄 **GitHub Actions** for CI/CD automation
+- 🔌 WooCommerce, payment providers, media processing, and physical hardware integrations
 
 > I enjoy owning a product from the first database table to the production server.
 
-🌍 **Based in Tunis, Tunisia — open to international relocation, remote and hybrid opportunities.**
+🌍 **Based in Tunis, Tunisia — open to international relocation, remote, and hybrid opportunities.**
 
 ---
 
 # 🚀 Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,cpp,cs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,ts,js,python,cpp,cs&theme=dark" alt="Java, TypeScript, JavaScript, Python, C++, and C#" />
 </p>
 
-### Frontend
+### ⚡ Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,vite,html,css&theme=dark" alt="React, Next.js, Angular, Tailwind CSS, Vite, HTML, and CSS" />
 </p>
 
-### Backend
+### 🧠 Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,django,fastapi,express&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,nestjs,django,fastapi,express,dotnet&theme=dark" alt="Spring, Node.js, NestJS, Django, FastAPI, Express, and .NET" />
 </p>
 
-### Databases & Data
+### 🗄️ Databases & Data
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,prisma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,prisma&theme=dark" alt="PostgreSQL, Redis, MongoDB, and Prisma" />
 </p>
 
-### DevOps & Infrastructure
+### 🛠️ DevOps & Infrastructure
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,githubactions,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,githubactions,git,github&theme=dark" alt="Docker, Nginx, Linux, GitHub Actions, Git, and GitHub" />
 </p>
 
 ---
@@ -91,30 +89,32 @@ I regularly work with:
 # 🏗️ Production Engineering
 
 ```text
-Frontend              Backend                Data
-──────────────        ──────────────         ──────────────
-Next.js               NestJS                 PostgreSQL
-React                 Django / DRF           Redis
-TypeScript            Node.js                MongoDB
-Tailwind CSS          FastAPI                Prisma
-Vite                  Celery
+Frontend                 Backend                   Data
+────────────────         ─────────────────         ────────────────
+Next.js                  Java / Spring Boot        PostgreSQL
+React                    NestJS                    Redis
+TypeScript               Node.js                   MongoDB
+Angular                  Django / DRF              Prisma
+Tailwind CSS             FastAPI
+Vite                     Express
+                         Celery
 
-                         │
-                         ▼
+                             │
+                             ▼
 
-                  Infrastructure
-              ─────────────────────
-                    Docker
-                     Nginx
-                     Linux
-               GitHub Actions
-                 Let's Encrypt
-                      VPS
+                      Infrastructure
+                  ─────────────────────
+                          Docker
+                          Nginx
+                          Linux
+                     GitHub Actions
+                      Let's Encrypt
+                           VPS
 
-                         │
-                         ▼
+                             │
+                             ▼
 
-                    Production
+                        Production
 ```
 
 ---
@@ -125,30 +125,33 @@ Vite                  Celery
 
 **Production ERP · POS · Business Intelligence Platform**
 
-[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge\&logo=github)](https://github.com/lk-cosmetics/LkSystemProd)
-![Production](https://img.shields.io/badge/STATUS-PRODUCTION-238636?style=for-the-badge)
-![Role](https://img.shields.io/badge/ROLE-SOLE_DEVELOPER-8957E5?style=for-the-badge)
+<a href="https://github.com/lk-cosmetics/LkSystemProd">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View LkSystem repository" />
+</a>
+<img src="https://img.shields.io/badge/Status-Production-238636?style=for-the-badge" alt="Production status" />
+<img src="https://img.shields.io/badge/Role-Sole_Developer-8957E5?style=for-the-badge" alt="Sole developer" />
 
-Built an end-to-end ERP, POS and business intelligence platform for the **Therapy by LK cosmetics group**.
+Built an end-to-end **ERP, POS, and Business Intelligence platform** for the Therapy by LK cosmetics group.
 
-The system handles multi-brand and multi-channel operations with:
+### Key Capabilities
 
-* Real-time business dashboards
-* Order and inventory management
-* Integrated point-of-sale
-* WooCommerce synchronization
-* Background processing with Celery
-* Redis caching and task queues
-* Real-time communication through Django Channels / ASGI
-* Automated CI/CD deployment
-* Production monitoring and maintenance
+- Multi-brand and multi-channel operations
+- Real-time business dashboards
+- Order and inventory management
+- Integrated point-of-sale
+- WooCommerce synchronization
+- Background processing with Celery
+- Redis caching and task queues
+- Django Channels / ASGI real-time communication
+- Automated CI/CD deployment
+- Production monitoring and maintenance
 
 ### 🖨️ Hardware Integration
 
-The POS communicates with physical retail hardware through dedicated **FastAPI bridge services**, including:
+The POS communicates with physical retail hardware through dedicated **FastAPI bridge services**:
 
-* ESC/POS thermal receipt printers
-* Serial customer displays
+- ESC/POS thermal receipt printers
+- Serial customer displays
 
 ### ⚙️ Stack
 
@@ -160,28 +163,28 @@ The POS communicates with physical retail hardware through dedicated **FastAPI b
 
 **Clinical Case Management · Manufacturing Workflow · Production Tracking**
 
-![Production](https://img.shields.io/badge/STATUS-PRODUCTION-238636?style=for-the-badge)
-![Private](https://img.shields.io/badge/REPOSITORY-PRIVATE-B62324?style=for-the-badge\&logo=github)
-![Role](https://img.shields.io/badge/ROLE-SOLE_DEVELOPER-8957E5?style=for-the-badge)
+<img src="https://img.shields.io/badge/Status-Production-238636?style=for-the-badge" alt="Production status" />
+<img src="https://img.shields.io/badge/Repository-Private-B62324?style=for-the-badge&logo=github&logoColor=white" alt="Private repository" />
+<img src="https://img.shields.io/badge/Role-Sole_Developer-8957E5?style=for-the-badge" alt="Sole developer" />
 
 Designed and built a production platform for a **clear-aligner manufacturer**.
 
-The platform manages the workflow from the patient case through clinical processing and manufacturing.
+The platform manages the workflow from patient cases through clinical processing and manufacturing.
 
-### Core areas
+### Core Areas
 
-* Patient file management
-* Treatment orders
-* Clinical workflow
-* Production tracking
-* Manufacturing pipeline
-* Role-based administration
-* Business operations
-* Production deployment and maintenance
+- Patient file management
+- Treatment orders
+- Clinical workflow
+- Production tracking
+- Manufacturing pipeline
+- Role-based administration
+- Business operations
+- Production deployment and maintenance
 
 ### ⚙️ Stack
 
-`Next.js` · `TypeScript` · `NestJS` · `Prisma` · `PostgreSQL` · `Docker` · `Nginx` · `GitHub Actions`
+`Next.js` · `TypeScript` · `NestJS` · `Prisma` · `PostgreSQL` · `Redis` · `Docker` · `Nginx` · `GitHub Actions`
 
 > The repository is private because the application is a commercial production system. Architecture and technical decisions can be discussed during interviews.
 
@@ -189,24 +192,25 @@ The platform manages the workflow from the patient case through clinical process
 
 ## 🎓 E-Learning Platform API
 
-[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge\&logo=github)](https://github.com/sakerhajji/elearning-platform-api)
+<a href="https://github.com/sakerhajji/elearning-platform-api">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View E-Learning Platform repository" />
+</a>
 
 Backend architecture for a complete online learning platform.
 
 ### Features
 
-* Course and lesson management
-* Video upload and transcoding
-* Per-user progress tracking
-* Quizzes
-* PDF certificate generation
-* QR certificate verification
-* Discussion forums
-* Real-time communication
-* Stripe payments
-* PayPal payments
-* OAuth 2.0 authentication
-* Media management through Cloudinary
+- Course and lesson management
+- Video upload and transcoding
+- Per-user progress tracking
+- Quizzes
+- PDF certificate generation
+- QR certificate verification
+- Discussion forums
+- Real-time communication
+- Stripe and PayPal payments
+- OAuth 2.0 authentication
+- Media management through Cloudinary
 
 Built around approximately **30 route modules and 20+ data models**.
 
@@ -218,21 +222,21 @@ Built around approximately **30 route modules and 20+ data models**.
 
 ## 📄 LatexLocal
 
-[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge\&logo=github)](https://github.com/sakerhajji/LatexLocal)
+<a href="https://github.com/sakerhajji/LatexLocal">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View LatexLocal repository" />
+</a>
 
-A reproducible Docker-based deployment of a self-hosted **Overleaf Community Edition** environment.
-
-Designed to provide a complete local collaborative LaTeX platform with its required infrastructure already configured.
+Reproducible Docker deployment of a self-hosted **Overleaf Community Edition** instance.
 
 ### Includes
 
-* Overleaf Community Edition
-* MongoDB replica set
-* Redis
-* Complete LaTeX environment
-* Required document fonts and packages
-* Docker Compose deployment
-* Reproducible setup
+- Overleaf Community Edition
+- MongoDB replica set
+- Redis
+- Complete LaTeX environment
+- Document fonts and packages
+- Docker Compose deployment
+- Reproducible infrastructure
 
 ```bash
 docker compose up -d
@@ -248,48 +252,28 @@ docker compose up -d
 
 ### Full-Stack Software Engineer
 
-**LK Cosmetics / Therapy by LK**
+**LK Cosmetics / Therapy by LK**  
 `Sep 2024 — Aug 2026`
 
-Production software engineering across ERP, POS, business intelligence, e-commerce synchronization, hardware integration and infrastructure.
+Production software engineering across ERP, POS, business intelligence, e-commerce synchronization, hardware integration, and infrastructure.
 
 ---
 
 ### Full-Stack Software Engineer · Freelance
 
-**Aura Aligners · Dr Bloom · Ania Naturals**
+**Aura Aligners · Dr Bloom · Ania Naturals**  
 `Sep 2024 — Jun 2025`
 
-Full-stack applications, e-commerce systems and production deployments.
+Full-stack applications, e-commerce systems, and production deployments.
 
 ---
 
 ### Full-Stack Software Engineer
 
-**Société Dessin Technique Divers**
+**Société Dessin Technique Divers**  
 `Oct 2022 — Sep 2024`
 
-Software development across web and backend technologies including Java, Spring Boot, .NET, Angular and C++.
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakerhajji&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakerhajji&layout=compact&theme=github_dark&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=sakerhajji&theme=github-dark-blue&hide_border=true" />
-
-</div>
+Software development across **Java, Spring Boot, .NET, Angular, C++**, and full-stack web technologies.
 
 ---
 
@@ -318,24 +302,23 @@ Software development across web and backend technologies including Java, Spring 
 
 # 🤝 Let's Connect
 
-I'm interested in engineering teams building serious production products where I can contribute across **architecture, backend, frontend and infrastructure**.
+I'm interested in engineering teams building serious production products where I can contribute across **architecture, backend, frontend, and infrastructure**.
 
-I'm open to:
+### Open To
 
-**🌍 International opportunities** · **🏠 Remote** · **🏢 Hybrid / On-site** · **✈️ Relocation** · **💼 Freelance**
+🌍 **International opportunities** · 🏠 **Remote** · 🏢 **Hybrid / On-site** · ✈️ **Relocation** · 💼 **Freelance**
 
 <div align="center">
 
 <a href="mailto:saker.hajji13@gmail.com">
-  <img src="https://img.shields.io/badge/Let's_Talk-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Let's_Talk-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" />
 </a>
-
 <a href="https://www.linkedin.com/in/sakerhajji/">
-  <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
 </a>
 
 <br/><br/>
 
-**Building software that runs in production — not just in localhost. ⚡**
+### ⚡ Building software that runs in production — not just on localhost.
 
 </div>
