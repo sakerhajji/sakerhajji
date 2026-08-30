@@ -28,6 +28,15 @@ alt="Saker Hajji — Full-Stack Software Engineer"
 
 
 
+<br/><br/>
+
+
+
+
+
+
+
+
 </div>
 
 👨‍💻 What I Do
@@ -126,11 +135,18 @@ These results represent the kind of engineering I value: technology connected to
 
 Engineering Toolkit
 
+<details>
+<summary><b>Click to view the complete engineering toolkit</b></summary>
+
+<br/>
+
 Backend: Java, Spring Boot, PHP, Laravel, Symfony, NestJS, Node.js, Django, Django REST Framework, FastAPI, Express, .NET, Celery
 Frontend: Angular, React, Next.js, TypeScript, JavaScript, Tailwind CSS, Vite
 Data: PostgreSQL, Redis, MongoDB, Prisma
 Production: Docker, Docker Compose, Nginx, Linux, GitHub Actions, Let's Encrypt, VPS
 Integrations: REST APIs, Webhooks, WooCommerce, Stripe, PayPal, Cloudinary, OAuth 2.0, ESC/POS
+
+</details>
 
 🌟 Featured Projects
 
@@ -298,6 +314,23 @@ Société Dessin Technique Divers
 Oct 2022 — Sep 2024
 
 Developed web and backend solutions using technologies including Java, Spring Boot, .NET, Angular, and C++.
+
+📊 GitHub Analytics
+
+<div align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=sakerhajji&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=F59E0B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E"
+alt="Saker Hajji GitHub analytics — total contributions, current streak, and longest streak"
+/>
+
+<br/>
+
+Total Contributions · Active Since · Current Streak · Longest Streak
+
+<sub>Live data generated from my public GitHub contribution activity.</sub>
+
+</div>
 
 🐍 GitHub Contribution Activity
 
